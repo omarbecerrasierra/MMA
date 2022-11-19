@@ -41,7 +41,7 @@ Project is: _complete_
 
 ## Acknowledgements
 
-- This project was inspired by the Competence creates in Kaggle, for this we use the MBRSC data set that which exists under the Creative Commons Zero (CC0) license and is available to download (Kaggle 2020). It contains aerial imagery of Dubai obtained by MBRSC satellites and annotated with pixel-wise semantic segmentation in 6 classes.
+- This project was inspired by the Competence creates in Kaggle, for this we use the MBRSC data set that which exists under the Creative Commons Zero (CC0) license and is available to download [(Kaggle, 2020)](https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery). It contains aerial imagery of Dubai obtained by MBRSC satellites and annotated with pixel-wise semantic segmentation in 6 classes.
 
 - This project was based on [this tutorial](https://www.coursera.org/lecture/convolutional-neural-networks/semantic-segmentation-with-u-net-rEYzz).
 
